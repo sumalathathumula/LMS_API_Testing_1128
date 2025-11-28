@@ -18,13 +18,13 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "New Request2",
 			"id": "50266866-e6779605-c922-4e95-b2f0-a89311c2ac85",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": []
 			},
 			"response": []
